@@ -1,6 +1,6 @@
 # Mi Tienda E-commerce
 
-Este proyecto es una aplicación de e-commerce desarrollada con React, Firebase y otras tecnologías modernas.
+Este proyecto es una aplicación de e-commerce desarrollada con React y Firebase.
 
 ## Características
 
